@@ -35,6 +35,6 @@ Rem-Color is a Belarusian-German manufacturer of industrial paints since 1999. T
 * Developed an adaptive website https://rem-color.by/.
 
 ### EDUCATION
-Bachelor’s degree in digital marketing | Sep 2014 - Jul 2018 
-Belarusian State University of Informatics and Radioelectronics
-Specialization: "Digital Marketing and Programming"
+* Bachelor’s degree in digital marketing | Sep 2014 - Jul 2018 
+* Belarusian State University of Informatics and Radioelectronics
+* Specialization: "Digital Marketing and Programming"
